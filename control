@@ -1,0 +1,16 @@
+Author: ichitaso
+Maintainer: ichitaso
+Name: HidePageDots13
+Package: com.ichitaso.hidedots13
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate
+Conflicts: 
+Replaces: 
+Section: Tweaks
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hides page dots for iOS 13
+Depiction: https://cydia.ichitaso.com/depiction/hidedots13.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios13
